@@ -165,21 +165,5 @@ All commands are slash commands.
 
 These files will be created automatically in the same directory as the bot script if they don't exist.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information (if you add one).
-*(Consider adding a LICENSE file, e.g., MIT License)*
-
----
 
 *This bot is intended for entertainment purposes. Please use responsibly.*
